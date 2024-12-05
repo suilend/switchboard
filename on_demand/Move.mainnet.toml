@@ -2,7 +2,7 @@
 name = "switchboard"
 edition = "2024.beta"
 version = "0.0.2"
-published-at = "0x1b03b77082cdb9d6b3febc6294f36d999d8556583616fadc84199a8e66371d60"
+published-at = "0xbd22434e506314abc0cd981447fbf42139fa04aa09b5a8a7d7789826883e8e0a"
 
 # First Publish: 0x0b884dbc39d915f32a82cc62dabad75ca3efd3c568c329eba270b03c6f58cbd8
 # Second Publish: 0x1b03b77082cdb9d6b3febc6294f36d999d8556583616fadc84199a8e66371d60
